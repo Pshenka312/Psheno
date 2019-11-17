@@ -1,2 +1,0 @@
-# Psheno
-Psheno is vkusno
