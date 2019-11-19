@@ -1,0 +1,8 @@
+A = 10
+B = 79
+T1 = '56'
+T2 = '68'
+SUM = A + B
+print(SUM)
+SUM = T1 + T2
+print(SUM)
