@@ -1,0 +1,6 @@
+import random
+
+
+for count in range(10):
+  print(random.randint(400, 663))
+
